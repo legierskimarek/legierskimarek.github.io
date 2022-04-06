@@ -319,6 +319,11 @@ h3 {
   position: relative;
 }
 
+#intro.section {
+  background: #a7ffeb repeat;
+  position: relative;
+}
+
 #intro.section .container {
   color: white;
   font-weight: 200;
