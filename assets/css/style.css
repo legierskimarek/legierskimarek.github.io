@@ -346,9 +346,9 @@ h3 {
   border-bottom: 5px solid #24305e;
 }
 
-/* #intro.section .teal {
+#intro.section .teal {
   padding: 0 10px;
-} */
+} 
 
 .overlay {
   background-color: rgba(0, 0, 0, 0.4);
