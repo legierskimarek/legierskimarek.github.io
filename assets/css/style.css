@@ -547,19 +547,19 @@ small {
   color: #ffffff !important;
 }
 
-/* .teal-text {
+.teal-text {
   color: #0b5e86 !important;
-} */
+} 
 
 /* .teal */
 
-/* .teal {
+.teal {
   background-color: #ffffff !important;
 }
 
-/* .teal {
+.teal {
   background-color: #00695c !important;
-} */
+} 
 
 @media (min-width: 1200px) {
   #experience .container {
