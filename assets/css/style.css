@@ -59,7 +59,7 @@ z.profile-pic {
 }
 
 .angellist {
-  color: grey;
+  color: #004d40;
 }
 
 .icon-btn:hover {
@@ -72,7 +72,7 @@ z.profile-pic {
 }
 
 .angellist:hover {
-  background-color: grey;
+  background-color: #004d40;
 }
 
 .github:hover {
@@ -537,7 +537,7 @@ small {
 }
 
 .grey-text {
-  color: #666 !important;
+  color: #004d40 !important;
 }
 
 /* main .teal-text */

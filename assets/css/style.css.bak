@@ -547,7 +547,7 @@ small {
 }
 
 .teal-text {
-  color: #0b5e86 !important;
+  color: #00695c !important;
 } 
 
 /* .teal */
