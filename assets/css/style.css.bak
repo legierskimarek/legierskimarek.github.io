@@ -751,13 +751,13 @@ input.check-toggle-round-flat + label {
   -o-border-radius: 60px;
   border-radius: 60px;
 }
-input.check-toggle-round-flat + label:before, input.check-toggle-round-flat + label:after {
+input.check-toggle-round-flat, input.check-toggle-round-flat {
   display: block;
   position: absolute;
   content: "";
 }
 
-input.check-toggle-round-flat + label:before {
+input.check-toggle-round-flat {
   top: 2px;
   left: 2px;
   bottom: 2px;
@@ -770,7 +770,7 @@ input.check-toggle-round-flat + label:before {
   -o-border-radius: 60px;
   border-radius: 60px;
 } 
-input.check-toggle-round-flat + label:after {
+input.check-toggle-round-flat {
   top: 4px;
   left: 4px;
   bottom: 4px;
@@ -790,6 +790,6 @@ input.check-toggle-round-flat + label:after {
 input.check-toggle-round-flat:checked + label {
 }
 
-input.check-toggle-round-flat:checked + label:after {
+input.check-toggle-round-flat:checked {
   margin-left: 44px;
 }

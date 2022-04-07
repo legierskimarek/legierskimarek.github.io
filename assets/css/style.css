@@ -729,7 +729,7 @@ input.check-toggle-round-flat:checked ~ .on {
   margin-left: -9999px;
   visibility: hidden;
 }
-.check-toggle + label {
+.check-toggle {
   display: block;
   position: relative;
   cursor: pointer;
@@ -740,7 +740,7 @@ input.check-toggle-round-flat:checked ~ .on {
   user-select: none;
 }
 
-input.check-toggle-round-flat + label {
+input.check-toggle-round-flat {
   padding: 2px;
   width: 97px;
   height: 35px;
@@ -787,7 +787,7 @@ input.check-toggle-round-flat {
   transition: margin 0.2s;
 }
 
-input.check-toggle-round-flat:checked + label {
+input.check-toggle-round-flat:checked{
 }
 
 input.check-toggle-round-flat:checked {
