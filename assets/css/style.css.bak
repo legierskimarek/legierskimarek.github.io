@@ -757,7 +757,7 @@ input.check-toggle-round-flat + label:before, input.check-toggle-round-flat + la
   content: "";
 }
 
-input.check-toggle-round-flat + label:before {
+//** input.check-toggle-round-flat + label:before {
   top: 2px;
   left: 2px;
   bottom: 2px;
@@ -769,7 +769,7 @@ input.check-toggle-round-flat + label:before {
   -ms-border-radius: 60px;
   -o-border-radius: 60px;
   border-radius: 60px;
-}
+} **//
 input.check-toggle-round-flat + label:after {
   top: 4px;
   left: 4px;
