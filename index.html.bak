@@ -124,7 +124,8 @@
         
 		<!-- Language toggle button -->
 		<center>
-		<span><b>LANGUAGE<</b>/span>
+		<a aria-label="Language button toggle" href="#toggle" target="_blank"
+        class="waves-effect waves-dark teal-text"><i class="mdi-toggle"></i><span>LANGUAGE</span></a>  
 	<div class="switch">
 	    <input id="language-toggle" class="check-toggle check-toggle-round-flat" type="checkbox">
 	    <label for="language-toggle"></label>
