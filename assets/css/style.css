@@ -1,4 +1,4 @@
-z.profile-pic {
+.profile-pic {
   position: relative;
   max-width:130px;
   max-height:130px;
@@ -10,7 +10,7 @@ z.profile-pic {
   
   /* background-size: cover;  */
   margin: -31px; 
-  margin-left:-7px;
+  margin-left: 93px;
   border: 6px solid rgba(0, 77, 64, 0.4); 
   border-radius: 50% !important;
 }
