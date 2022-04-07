@@ -199,15 +199,10 @@
             <div class='buttons'>
               <a href="#about" class="readme">Read More</a>
               <a href="#contact" class="contactme">Contact Me</a>
-			<label class="toggle">
-			<input class="toggle-checkbox" type="checkbox" checked>
-			<div class="toggle-switch"></div>
-			<span class="toggle-label">Polski</span>
-			</label>
             </div>
           </div>
         </div>
-      </div>
+      </div>
     </section>
 
     <!-- Second Section: About -->
@@ -974,7 +969,7 @@ of each drug container to estimate the degradation of the drug.
   <script src="assets/vendor/typed.js/typed.min.js"></script>
   <script type="text/javascript">
     var typed = new Typed('.typing',{
-      strings: ["Junior Tester" , "IT Enthusiast", "Traveler" , "100% myself!"],
+      strings: ["Junior Tester..." , "IT Enthusiast...", "Traveler..." , "100% myself!"],
       loop: true,
       typeSpeed: 40,
       backSpeed: 30
