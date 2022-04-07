@@ -971,8 +971,8 @@ of each drug container to estimate the degradation of the drug.
     var typed = new Typed('.typing',{
       strings: ["Junior Tester..." , "IT Enthusiast...", "Traveler..." , "100% myself!"],
       loop: true,
-      typeSpeed: 100,
-      backSpeed: 50
+      typeSpeed: 10,
+      backSpeed: 20
     });
   </script>
 
