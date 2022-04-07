@@ -126,7 +126,7 @@
 		<center>
 		<span><b>LANGUAGE</b></span>
 	<div class="switch">
-	    <input id="language-toggle" class="check-toggle check-toggle-round-flat" type="checkbox">
+	    <input id="language-toggle" class="check-toggle check-toggle-round-flat" type="toggle-round-flat">
 	    <label for="language-toggle"></label>
 	    <span class="on">PL</span>
 	    <span class="off">EN</span>
