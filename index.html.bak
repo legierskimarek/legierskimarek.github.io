@@ -199,6 +199,10 @@
             <div class='buttons'>
               <a href="#about" class="readme">Read More</a>
               <a href="#contact" class="contactme">Contact Me</a>
+			  <label class="switch">
+			<input type="checkbox">
+			<span class="slider"></span>
+			</label>
             </div>
           </div>
         </div>
