@@ -36,7 +36,7 @@
   <meta property="og:locale" content="en_US" />
   <meta property="og:type" content="website" />
   <meta property="og:title" content="Marek Legierski" />
-  <meta property="og:description" content="Manual Tester" />
+  <meta property="og:description" content="Sofrware Tester" />
   <meta property="og:url" content="https://legierskimarek.github.io/" />
   <meta property="og:site_name" content="Marek Legierski" />
   <meta property="article:publisher" content="https://legierskimarek.github.io/" />
@@ -200,6 +200,14 @@
               <a href="#about" class="readme">Read More</a>
               <a href="#contact" class="contactme">Contact Me</a>
             </div>
+			<center>
+			<div class="switch">
+			<input id="language-toggle" class="check-toggle check-toggle-round-flat" type="checkbox">
+			<label for="language-toggle"></label>
+			<span class="on">EN</span>
+			<span class="off">PL</span>
+			</div>
+			</center>
           </div>
         </div>
       </div>
