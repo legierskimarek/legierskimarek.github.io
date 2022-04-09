@@ -686,10 +686,12 @@ small {
   #intro.section {
     background-position-x: 30%;
   }
+  
   .switch {
   position: relative;
   display: inline-block;
-  margin: 0 5px;
+  margin-left: auto;
+  margain-right: 0;
 }
 
 .switch > span {
