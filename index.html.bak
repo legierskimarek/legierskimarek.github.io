@@ -205,11 +205,11 @@
               <a href="#about" class="readme">Read More</a>
               <a href="#contact" class="contactme">Contact Me</a>
 			<div class="dropdown">
-			<button class="btn btn-default dropdown-toggle" type="button" data-toggle="dropdown">Language Option
+			<button class="btn btn-default dropdown-toggle" type="button" data-toggle="dropdown">Language
 			<span class="caret"></span></button>
 			<ul class="dropdown-menu">
 			<li onclick="toggleLanguage('English')"><a href="#">English</a></li>
-			<li onclick="toggleLanguage('Korean')"><a href="#">Korean</a></li>
+			<li onclick="toggleLanguage('Polish')"><a href="#">Polish</a></li>
 			</ul>
 			</div>
 			</div>
