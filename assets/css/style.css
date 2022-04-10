@@ -686,3 +686,8 @@ small {
   #intro.section {
     background-position-x: 30%;
   }
+  ul.dropdown-menu {
+	  display: block;
+	  margin-left: 1000;
+	  
+	 
