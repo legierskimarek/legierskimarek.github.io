@@ -172,6 +172,17 @@
           href="https://drive.google.com/file/d/1B6MZ1z0-7NsefC3Lm_q-uhib28MTqpE9/view?usp=sharing" target="_blank"
           class="waves-effect waves-dark teal-text"><i class="mdi-file-folder-open small"></i><span>Resume</span></a>
       </li>
+	  <div>
+			<h1 id="description">Show English Text</h1>
+			<div class="dropdown">
+			<button class="btn btn-default dropdown-toggle" type="button" data-toggle="dropdown">Language Option
+			<span class="caret"></span></button>
+			<ul class="dropdown-menu">
+			<li onclick="toggleLanguage('English')"><a href="#">English</a></li>
+			<li onclick="toggleLanguage('Korean')"><a href="#">Korean</a></li>
+			</ul>
+			</div>
+			</div>
     </ul>
   </nav>
 
@@ -200,17 +211,6 @@
                   <i class="fa fa-github"></i>
                 </button>
               </a>
-			  <div class="container">
-			<h1 id="description">Show English Text</h1>
-			<div class="dropdown">
-			<button class="btn btn-default dropdown-toggle" type="button" data-toggle="dropdown">Language Option
-			<span class="caret"></span></button>
-			<ul class="dropdown-menu">
-			<li onclick="toggleLanguage('English')"><a href="#">English</a></li>
-			<li onclick="toggleLanguage('Korean')"><a href="#">Korean</a></li>
-			</ul>
-			</div>
-			</div>
             </div>
             <div class='buttons'>
               <a href="#about" class="readme">Read More</a>
