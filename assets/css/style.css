@@ -686,4 +686,7 @@ small {
   #intro.section {
     background-position-x: 30%;
   }
+  .btn:hover {
+	background-color: #004d40 !important;
+  }
 	 
