@@ -122,7 +122,7 @@
         <!-- <a aria-label="Open Marek's resume in a new tab" href="#resume" target="_blank"
           onclick="window.open('https://drive.google.com/file/d/1vYi-bMyIsZPve0x_clxY8xsDtiHiOMd3/view?usp=sharing')"
           class="waves-effect waves-dark teal-text"><i class="mdi-file-folder-open small"></i><span>Resume</span></a> -->
-        <a aria-label="Open Marek's resume in a new tab" href="https://varadbhogayata.github.io/assets/resume/Marek_Legierski_Resume.pdf" target="_blank"
+        <a aria-label="Open Marek's resume in a new tab" href="http github cv link" target="_blank"
         class="waves-effect waves-dark teal-text"><i class="mdi-file-folder-open small"></i><span>Resume</span></a>  
       </li>	  
     </ul>
@@ -232,12 +232,12 @@
           </h2>
         </blockquote> -->        
         <p>
-          My name is Marek. I graduated from the IT technician school in a small city in the south of the Silesian district in Poland.
+          <li>My name is Marek. I graduated from the IT technician school in a small city in the south of the Silesian district in Poland.</li>
 
-          I am working as a Process Technician. My actual job is pretty interesting, but I have no opportunities for self-development.
-			That is the main reason why I decided to change my actual industry. 
+          <li>I am working as a Process Technician. My actual job is pretty interesting, but I have no opportunities for self-development.</li>
+			<li>That is the main reason why I decided to change my actual industry.</li>
 
-          I am passionate about developing complex applications that solve real-world problems impacting millions of users.
+          <li>Besides work, I am a traveller and beekeeper, and I love spending time actively.</li>
         </p>
         <p>
           <ul>
@@ -961,7 +961,7 @@ of each drug container to estimate the degradation of the drug.
         <p>
           <a aria-label="Email Marek" href="mailto:marek.a.legierski@gmail.com" target="_blank" data-position="top"
             data-tooltip="Email Marek" class="btn-floating btn-large waves-effect waves-light blue-grey tooltipped"><i
-              class="fa fa-envelope"></i><a aria-label="Email Marek" href="mailto:vbhogayata@gmail.com"
+              class="fa fa-envelope"></i><a aria-label="Email Marek" href="mailto:marek.a.legierski@gmail.com"
               class="hoverline">marek.a.legierski@gmail.com</a></a>
         </p>
         <p>
@@ -986,7 +986,7 @@ of each drug container to estimate the degradation of the drug.
   <script src="assets/vendor/typed.js/typed.min.js"></script>
   <script type="text/javascript">
     var typed = new Typed('.typing',{
-      strings: ["Software Tester..." , "IT Enthusiast...", "Traveler..." , "100% myself!"],
+      strings: ["Software Tester..." , "IT Enthusiast...", "Traveller..." , "100% myself!"],
       loop: true,
       typeSpeed: 100,
       backSpeed: 50
