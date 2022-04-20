@@ -232,20 +232,21 @@
           </h2>
         </blockquote> -->        
         <p>
-          <p>My name is Marek. I graduated from the IT technician school in a small city in the south of the Silesian district in Poland.</p>
+          <p>My name is Marek. I graduated from the IT technical school in a small city in the south of the Silesian district in Poland.</p>
 
           <p>I am working as a Process Technician. My actual job is pretty interesting, but I have no opportunities for self-development.</p>
 			<p>That is the main reason why I decided to change my actual industry.</p>
 
           <p>Besides work, I am a beekeeper, and I love spending time actively and travelling.</p>
+		  <p> I hope I will be able to add all my new-learned abilities soon to this site! :) </p>
         </p>
         <p>
           <ul>
-            <li><b>Languages:</b> Python, Java, JavaScript, C, C++, HTML/CSS, Bash</li>
+            <!-- <li><b>Languages:</b> Python, Java, JavaScript, C, C++, HTML/CSS, Bash</li>
             <li><b>Databases:</b> MySQL, PostgreSQL, MongoDB</li>
             <li><b>Libraries:</b> NumPy, Pandas, OpenCV</li>
-            <li><b>Frameworks:</b> Flask, Django, Node.js, Keras, TensorFlow, PyTorch, Bootstrap, Apache Beam</li>
-            <li><b>Tools & Technologies:</b> Git, Docker, AWS, GCP, Heroku, JIRA</li>
+            <li><b>Frameworks:</b> Flask, Django, Node.js, Keras, TensorFlow, PyTorch, Bootstrap, Apache Beam</li> -->
+            <li><b>Tools & Technologies (basic level):</b> SQL, Git, JIRA, Postman, DevTools, BrowserStack</li>
           </ul>
           
         </p>
@@ -255,7 +256,7 @@
           Detail-oriented Manual Tester with professional experience in Backend Development, Machine Learning, Computer Vision. I am adept in Python, Django, Flask, SQL, Machine Learning, Computer Vision.           
         </p> -->
         <p>
-          Looking for an opportunity to work in a challenging position combining my skills in Software Engineering, which provides professional development, interesting experiences and personal growth.
+          I am looking for an opportunity to work which provides professional development, interesting experiences and personal growth.
         </p>
         <!-- <p>
           Another Paragraph
@@ -282,18 +283,18 @@
           <div class="card-content">
             <div class="row">
               <div class="col s12 m2">
-                <a href="https://www.zhiffy.com/" target="_blank"><img alt="Zhiffy logo"
-                    src="/assets/img/exp-zhiffy-logo-1.webp" class="responsive-img center-block" /></a>
+                <a href="https://www.utest.com/" target="_blank"><img alt="uTest logo"
+                    src="https://www.utest.com/assets/images/uTestLogoNavDark.svg" class="responsive-img center-block" /></a>
               </div>
               <!-- <div class="col s12 m10"> -->
               <div class="col s12 m10">
                 <p>
-                  <span class="card-title"><a href="https://www.zhiffy.com/" target="_blank"
-                      class="teal-text hoverline">Zhiffy</a></span>
+                  <span class="card-title"><a href="https://www.utest.com/" target="_blank"
+                      class="teal-text hoverline">uTest</a></span>
                 </p>
               </div>
             </div>
-            <div class="role brown-text text-darken-2">Software Engineer</div>
+            <div class="role brown-text text-darken-2">Software Tester</div>
             <ul>
               <li>
                 Developed and managed the backend of an e-commerce platform using Flask, MongoDB, and AWS.
