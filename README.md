@@ -9,4 +9,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](./LICENSE)
 ### Special thanks 🛠️
 
 Special thanks to https://varadbhogayata.github.io for his portfolio template. 
-I allowed myself to change it a little bit :D
+<p> I allowed myself to change it a little bit :D </p>
